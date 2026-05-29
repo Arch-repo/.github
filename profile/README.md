@@ -49,7 +49,9 @@ root@anto426: ~/organization (main⚡)$ preview --status
 </p>
 
 <p align="center">
-  <video src="https://github.com/Anto426/Arch-Hyprland/raw/main/previews/demo.mp4" width="90%" controls></video>
+  <a href="https://github.com/Anto426/Arch-Hyprland/blob/main/previews/demo.mp4">
+    <img src="https://img.shields.io/badge/▶%20PLAY%20VIDEO-8cb8e4?style=for-the-badge&logo=playstation&logoColor=white" height="40" alt="Play Video on GitHub" />
+  </a>
 </p>
 
 <p align="center">
