@@ -35,6 +35,23 @@ root@anto426: ~/organization (main⚡)$ neofetch
   <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/divider.gif" width="440" height="40" />
 </p>
 
+# <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/icon1.gif" width="70px" /> Live Preview;
+
+```sh
+root@anto426: ~/organization (main⚡)$ preview --status
+
+- 📽️ Watch Setup Demo: [🎞️ previews/demo.mkv](https://github.com/Arch-repo/Arch-Hyprland/blob/main/previews/demo.mkv)
+- 📸 Screenshot: Desktop environment rendered successfully below.
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arch-repo/Arch-Hyprland/main/previews/screenshot.png" width="90%" alt="Arch Ecosystem Active Setup Screenshot" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/divider.gif" width="440" height="40" />
+</p>
+
 # <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/icon2.gif" width="70px" /> Core Repositories;
 
 ```sh
