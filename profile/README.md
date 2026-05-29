@@ -47,7 +47,7 @@ root@anto426: ~/organization (main⚡)$ preview --status
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arch-repo/Arch-Hyprland/main/previews/screenshot.png" width="90%" alt="Arch Ecosystem Active Setup Screenshot" />
 </p>
-![Ecosystem Demo Video](https://github.com/Anto426/Arch-Hyprland/raw/main/previews/demo.mp4)
+![Ecosystem Demo Video](https://github.com/Anto426/Arch-Hyprland/blob/main/previews/demo.mp4?raw=true)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/divider.gif" width="440" height="40" />
