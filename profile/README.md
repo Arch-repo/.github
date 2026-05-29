@@ -35,6 +35,21 @@ root@anto426: ~/organization (main⚡)$ neofetch
   <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/divider.gif" width="440" height="40" />
 </p>
 
+# <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/icon2.gif" width="70px" /> Core Repositories;
+
+* 🚀 **[Arch-Hyprland](https://github.com/Arch-repo/Arch-Hyprland)** — Beautiful automatic Wayland setup installer.
+* ⚡ **[auto-setup-LT](https://github.com/Arch-repo/auto-setup-LT)** — Minimal shell/terminal bootstrap script.
+* 🌌 **[dotfiles](https://github.com/Arch-repo/dotfiles)** — Custom configuration files & dynamic theming engine.
+* 🎛️ **[rofi](https://github.com/Arch-repo/rofi)** — Customized Wayland Rofi fork enabling slider controls.
+* 🗂️ **[grub2-themes](https://github.com/Arch-repo/grub2-themes)** — Stylized bootloader theme synchronized with active wallpaper.
+* 🖌️ **[Anto426-theme](https://github.com/Arch-repo/Anto426-theme)** — Orchis-based dark GTK fallback base theme.
+* 🧩 **[vscodetheme](https://github.com/Arch-repo/vscodetheme)** — VS Code theme customized for Rofi engine integration.
+* 🖼️ **[Wallpaper-Collection](https://github.com/Arch-repo/Wallpaper-Collection)** — High quality wallpapers & terminal assets.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/divider.gif" width="440" height="40" />
+</p>
+
 # <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/icon1.gif" width="70px" /> Live Preview;
 
 ```sh
@@ -47,6 +62,7 @@ root@anto426: ~/organization (main⚡)$ preview --status
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arch-repo/Arch-Hyprland/main/previews/screenshot.png" width="90%" alt="Arch Ecosystem Active Setup Screenshot" />
 </p>
+
 <p align="center">
   <img src="https://github.com/Anto426/Arch-Hyprland/raw/main/previews/demo.gif" width="90%" alt="Arch Ecosystem Live Animated Preview" />
 </p>
@@ -56,43 +72,6 @@ root@anto426: ~/organization (main⚡)$ preview --status
     <img src="https://img.shields.io/badge/▶%20WATCH%20FULL%20HD%20VIDEO-8cb8e4?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="Watch Full HD Video" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/divider.gif" width="440" height="40" />
-</p>
-
-# <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/icon2.gif" width="70px" /> Core Repositories;
-
-```sh
-root@anto426: ~/organization (main⚡)$ btop --preset repos
-
-+- core.installer                    -+     +- ecosystem.components              -+
-| 1. Arch-Hyprland     [##########]   |     | 1. dotfiles          [##########]   |
-|    - Beautiful Wayland Installer    |     |    - Configurations & Theming Engine |
-| 2. auto-setup-LT     [######....]   |     | 2. rofi              [#########.]   |
-|    - Shell & Terminal Bootstrap     |     |    - Wayland Slider Fork         |
-|                                     |     | 3. grub2-themes      [########..]   |
-|                                     |     |    - Dynamic Bootloader Theme    |
-|                                     |     | 4. Anto426-theme     [#######...]   |
-|                                     |     |    - GTK Stable Theme Base       |
-|                                     |     | 5. vscodetheme       [######....]   |
-|                                     |     |    - VSCode Palette Sync         |
-|                                     |     | 6. Wallpaper-Coll.   [#####.....]   |
-|                                     |     |    - Aesthetic Visual Assets     |
-+-------------------------------------+     +-------------------------------------+
-
-```
-
-### 🔗 Repositories Directory
-* 🚀 **[Arch-Hyprland](https://github.com/Arch-repo/Arch-Hyprland)** — Beautiful automatic Wayland setup installer.
-* ⚡ **[auto-setup-LT](https://github.com/Arch-repo/auto-setup-LT)** — Minimal shell/terminal bootstrap script.
-* 🌌 **[dotfiles](https://github.com/Arch-repo/dotfiles)** — Custom configuration files & dynamic theming engine.
-* 🎛️ **[rofi](https://github.com/Arch-repo/rofi)** — Customized Wayland Rofi fork enabling slider controls.
-* 🗂️ **[grub2-themes](https://github.com/Arch-repo/grub2-themes)** — Stylized bootloader theme synchronized with active wallpaper.
-* 🖌️ **[Anto426-theme](https://github.com/Arch-repo/Anto426-theme)** — Orchis-based dark GTK fallback base theme.
-* 🧩 **[vscodetheme](https://github.com/Arch-repo/vscodetheme)** — VS Code theme customized for Rofi engine integration.
-* 🖼️ **[Wallpaper-Collection](https://github.com/Arch-repo/Wallpaper-Collection)** — High quality wallpapers & terminal assets.
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/divider.gif" width="440" height="40" />
