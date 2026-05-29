@@ -65,11 +65,11 @@ root@anto426: ~/organization (main⚡)$ preview --status
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anto426/Arch-Hyprland/raw/main/previews/demo.gif" width="90%" alt="Arch Ecosystem Live Animated Preview" />
+  <img src="https://github.com/Arch-repo/Arch-Hyprland/raw/main/previews/demo.gif" width="90%" alt="Arch Ecosystem Live Animated Preview" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Anto426/Arch-Hyprland/blob/main/previews/demo.mp4">
+  <a href="https://github.com/Arch-repo/Arch-Hyprland/blob/main/previews/demo.mp4">
     <img src="https://img.shields.io/badge/▶%20WATCH%20FULL%20HD%20VIDEO-8cb8e4?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="Watch Full HD Video" />
   </a>
 </p>
@@ -114,3 +114,4 @@ graph TD
 <div align="center">
   <i>Maintained by the anto426 ecosystem</i>
 </div>
+
