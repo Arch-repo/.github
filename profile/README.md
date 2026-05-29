@@ -41,14 +41,32 @@ root@anto426: ~/organization (main⚡)$ neofetch
 root@anto426: ~/organization (main⚡)$ btop --preset repos
 
 +- core.installer                    -+     +- ecosystem.components              -+
-| [Arch-Hyprland](https://github.com/Anto426/Arch-Hyprland) |     | 1. [dotfiles](https://github.com/Anto426/dotfiles)       (Configs & Theming) |
-| Beautiful automatic Wayland deploy  |     | 2. [rofi](https://github.com/Anto426/rofi)           (Wayland Slider Fork) |
-|                                     |     | 3. [grub2-themes](https://github.com/Anto426/grub2-themes)   (Dynamic Bootloader)  |
-| [auto-setup-LT](https://github.com/Anto426/auto-setup-LT) |     | 4. [Anto426-theme](https://github.com/Anto426/Anto426-theme)  (GTK stable base)     |
-| Minimal Shell / Terminal bootstrap   |     | 5. [vscodetheme](https://github.com/Anto426/vscodetheme)    (VSCode Sync Theme)   |
-|                                     |     | 6. [Wallpaper-Collection](https://github.com/Anto426/Wallpaper-Collection) (Assets)    |
+| 1. Arch-Hyprland     [##########]   |     | 1. dotfiles          [##########]   |
+|    - Beautiful Wayland Installer    |     |    - Configurations & Theming Engine |
+| 2. auto-setup-LT     [######....]   |     | 2. rofi              [#########.]   |
+|    - Shell & Terminal Bootstrap     |     |    - Wayland Slider Fork         |
+|                                     |     | 3. grub2-themes      [########..]   |
+|                                     |     |    - Dynamic Bootloader Theme    |
+|                                     |     | 4. Anto426-theme     [#######...]   |
+|                                     |     |    - GTK Stable Theme Base       |
+|                                     |     | 5. vscodetheme       [######....]   |
+|                                     |     |    - VSCode Palette Sync         |
+|                                     |     | 6. Wallpaper-Coll.   [#####.....]   |
+|                                     |     |    - Aesthetic Visual Assets     |
 +-------------------------------------+     +-------------------------------------+
+
 ```
+
+### 🔗 Repositories Directory
+* 🚀 **[Arch-Hyprland](https://github.com/Arch-repo/Arch-Hyprland)** — Beautiful automatic Wayland setup installer.
+* ⚡ **[auto-setup-LT](https://github.com/Arch-repo/auto-setup-LT)** — Minimal shell/terminal bootstrap script.
+* 🌌 **[dotfiles](https://github.com/Arch-repo/dotfiles)** — Custom configuration files & dynamic theming engine.
+* 🎛️ **[rofi](https://github.com/Arch-repo/rofi)** — Customized Wayland Rofi fork enabling slider controls.
+* 🗂️ **[grub2-themes](https://github.com/Arch-repo/grub2-themes)** — Stylized bootloader theme synchronized with active wallpaper.
+* 🖌️ **[Anto426-theme](https://github.com/Arch-repo/Anto426-theme)** — Orchis-based dark GTK fallback base theme.
+* 🧩 **[vscodetheme](https://github.com/Arch-repo/vscodetheme)** — VS Code theme customized for Rofi engine integration.
+* 🖼️ **[Wallpaper-Collection](https://github.com/Arch-repo/Wallpaper-Collection)** — High quality wallpapers & terminal assets.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/divider.gif" width="440" height="40" />
