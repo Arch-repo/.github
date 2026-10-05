@@ -38,14 +38,14 @@ root@anto426: ~/organization (main⚡)$ neofetch
 
 # <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/icon2.gif" width="70px" /> Core Repositories;
 
-* 🚀 **[Arch-Hyprland](https://github.com/Arch-repo/Arch-Hyprland)** — Beautiful automatic Wayland setup installer.
-* ⚡ **[auto-setup-LT](https://github.com/Arch-repo/auto-setup-LT)** — Minimal shell/terminal bootstrap script.
+* 🚀 **[Arch-Hyprland](https://github.com/Arch-repo/arch-hyprland)** — Beautiful automatic Wayland setup installer.
+* ⚡ **[auto-setup-LT](https://github.com/Arch-repo/auto-setup-lt)** — Minimal shell/terminal bootstrap script.
 * 🌌 **[dotfiles](https://github.com/Arch-repo/dotfiles)** — Custom configuration files & dynamic theming engine.
 * 🎛️ **[rofi](https://github.com/Arch-repo/rofi)** — Customized Wayland Rofi fork enabling slider controls.
 * 🗂️ **[grub2-themes](https://github.com/Arch-repo/grub2-themes)** — Stylized bootloader theme synchronized with active wallpaper.
-* 🖌️ **[Anto426-theme](https://github.com/Arch-repo/Anto426-theme)** — Orchis-based dark GTK fallback base theme.
-* 🧩 **[vscodetheme](https://github.com/Arch-repo/vscodetheme)** — VS Code theme customized for Rofi engine integration.
-* 🖼️ **[Wallpaper-Collection](https://github.com/Arch-repo/Wallpaper-Collection)** — High quality wallpapers & terminal assets.
+* 🖌️ **[Anto426-theme](https://github.com/Arch-repo/gtk-theme)** — Orchis-based dark GTK fallback base theme.
+* 🧩 **[vscodetheme](https://github.com/Arch-repo/vscode-theme)** — VS Code theme customized for Rofi engine integration.
+* 🖼️ **[Wallpaper-Collection](https://github.com/Arch-repo/wallpaper-collection)** — High quality wallpapers & terminal assets.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anto426/Anto426/main/asset/divider.gif" width="440" height="40" />
@@ -61,15 +61,15 @@ root@anto426: ~/organization (main⚡)$ preview --status
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arch-repo/Arch-Hyprland/main/previews/screenshot.png" width="90%" alt="Arch Ecosystem Active Setup Screenshot" />
+  <img src="https://raw.githubusercontent.com/Arch-repo/arch-hyprland/main/previews/screenshot.png" width="90%" alt="Arch Ecosystem Active Setup Screenshot" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arch-repo/Arch-Hyprland/raw/main/previews/demo.gif" width="90%" alt="Arch Ecosystem Live Animated Preview" />
+  <img src="https://github.com/Arch-repo/arch-hyprland/raw/main/previews/demo.gif" width="90%" alt="Arch Ecosystem Live Animated Preview" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Arch-repo/Arch-Hyprland/blob/main/previews/demo.mp4">
+  <a href="https://github.com/Arch-repo/arch-hyprland/blob/main/previews/demo.mp4">
     <img src="https://img.shields.io/badge/▶%20WATCH%20FULL%20HD%20VIDEO-8cb8e4?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="Watch Full HD Video" />
   </a>
 </p>
